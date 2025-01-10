@@ -1,0 +1,8 @@
+ultralytics 
+supervision 
+opencv-python 
+matplotlib
+ipykernel
+onnx
+onnxslim
+onnxruntime
